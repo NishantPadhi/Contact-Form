@@ -1,7 +1,7 @@
 body
 {
-    /*background-image: linear-gradient(to right, #77A1D3 0%, #79CBCA 51%, #77A1D3 100%);*/
-    background: linear-gradient(to left,#3a6186,#a07680);
+    background-image: linear-gradient(to right, #77A1D3 0%, #79CBCA 51%, #77A1D3 100%);
+   /* background: linear-gradient(to left,#3a6186,#a07680);*/
 }
 h2
  {
