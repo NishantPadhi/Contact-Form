@@ -14,12 +14,14 @@ label
 #link
 {
 	text-decoration: none;
-	color: #9dbdf2;
+    color: #0766ff;
+	/*color: #9dbdf2;*/
 }
 #link:hover
 {
 	font-weight: bold;
-	color: #042e72;
+    color: #051633;
+	/*color: #042e72;*/
 }
 .btn-send
  {
