@@ -1,0 +1,40 @@
+body
+{
+    background-image: linear-gradient(to right, #77A1D3 0%, #79CBCA 51%, #77A1D3 100%);
+}
+h2
+ {
+    margin-bottom: 40px;
+}
+label 
+{
+    color: #333;
+}
+#link
+{
+	text-decoration: none;
+	color: #0f5cdb;
+}
+#link:hover
+{
+	font-weight: bold;
+	color: #042e72;
+}
+.btn-send
+ {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    margin-bottom: 20px;
+    background-image: linear-gradient(to right, #2980b9 0%, #2c3e50 51%, #2980b9 100%);
+    color: white;
+}
+.btn-send:hover
+{
+	background-position: right center;
+}
+.error
+ {
+    color: #ff5050;
+    margin-top: 5px;
+}
