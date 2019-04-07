@@ -42,7 +42,7 @@
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="form_mobileno"><b>Mobile no </b></label>
-                                    <input id="form_mobileno" type="text" name="mobileno" class="form-control" placeholder="Please enter your mobile number" data-error="Please enter valid mobile number.">
+                                    <input id="form_mobileno" type="text" name="mobile" class="form-control" placeholder="Please enter your mobile number" pattern="[0-9]{10}" data-error="Please enter valid mobile number.">
                                     <div class="error"></div>
                                 </div>
                             </div>
@@ -56,7 +56,7 @@
                                 </div>
                             </div>
                             <div class="col-md-12">
-                                <input type="submit" class="btn btn-send" value="Send message">
+                                <input type="submit" name="SubmitBtn" class="btn btn-send" value="Send message">
                             </div>
                         </div>
                         <div class="row">
